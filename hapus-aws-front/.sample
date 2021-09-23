@@ -1,5 +1,0 @@
-DATABASE:mongodb+srv://mahi:0aQ8zcAuz4GhYVFf@cluster0.omqaw.mongodb.net/mvp?retryWrites=true&w=majority
-PORT=5000
-JWT_SECRET=hapuslogin
-AWS_KEY="AKIAIHUQNQK6HOSFL4DQ"
-AWS_SECRET_KEY="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"
